@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rebelde-RBD</title>
+  <link rel="stylesheet" href="assets/css/style.css"/>
+</head>
+
+<body>
+ <header>
+    <div class="line"></div>
+ <div class="container header--left"></div>
+ <div class="logo">
+    <a href="/testes/images/logo.png">img src="assets/images/logo.png"</a>
+ </div>
+ <div class="header--right">
+    <div class="header--search">
+        <form>
+            <input type="text" name="search" placeholder="Search"/>
+            <button>
+                <img src="assets/images/loupe.png">
+            </button>
+        </form>
+    </div>
+    <div class="header--menu">
+        <img src="assets/images/menu.png"/>
+    </div>
+ </div>
+ </header>
+ <section class="banner">
+    <div class="container">
+        <h1>Starbucks<br/> Happy Hour</h1>
+        <span>We'll meet you in your inbox. Drink deals are on their way.</span>
+        <div class="banner--images">
+           <img src="assets/images/c1.jpg"/>
+           <img src="assets/images/c2.jpg"/>
+           <img src="assets/images/c3.jpg"/>
+        </div>
+
+</div>
+ </section>
+ <section class="area1">
+    <div class="area1--content">
+        <div class="bar"></div>
+        <h2>Four Drinks, A Million<br/>Reasons</h2>
+        <div class="area1--quote"><em>"Y soy rebelde
+</p>Cuando no sigo a los demás"</em>- RBD</div>
+        <div class="area1--text">RBD é um grupo vocal mexicano de música pop criado a partir da telenovela mexicana Rebelde (2004–06). O grupo, composto originalmente por Alfonso Herrera, Anahí, Christian Chávez, Christopher von Uckermann, Dulce María e Maite Perroni, é tido como o grupo de maior êxito do pop mexicano e da América Latina.[1][2] O grupo deu início as suas atividades em 30 de setembro de 2004 com o lançamento do primeiro single de seu álbum de estreia, Rebelde, e encerrou suas atividades em 10 de março de 2009, após o lançamento de seu último álbum de estúdio, Para Olvidarte de Mí.</div>
+
+        <a href="" class="button">learn more</a>
+
+    <div class="area1--img1"></div> 
+    <div class="area1--img2"></div>
+</section>
+<section class="area2">
+    <div class="area2--content">
+        <div class="bar"></div>
+        <h2>Conquistas da banda mexicana que conquistou o mundo:</h2>
+
+        <div class="area2--text">O grupo lançou seu álbum de estreia, Rebelde, em 2004, que ficou entre os 10 mais vendidos nas paradas musicais de cinco países, incluindo o México e os Estados Unidos, sendo que nesse último, estreou na posição número 1 da Latin Pop Albums da Billboard e foi certificado como platina quádruplo pela RIAA.</div>
+
+        <a href="" class="button">learn more</a>
+
+    <div class="area2--img1"></div> 
+    <div class="area2--img2"></div>
+</section>
+<section class="area3">
+    <div class="area3--content">
+        <h2>The New Ultra Caramel<br/>A maior banda mexicana da história!</h2>
+        <div class="area3--text">O RBD tornou-se um dos atos pop mais bem sucedido na história da música hispana e um dos acontecimentos musicais mais importantes na cultura popular mexicana contemporânea, sendo constantemente aclamados por serem um dos maiores grupos pop de todos os tempos, com mais de 15 milhões de álbuns vendidos mundialmente, entrando para a história da música como um dos mais exitosos grupo pop mexicano.</div>
+        <a href="" class="button">learn more</a>
+    </div>
+    <div class="area3--img1">...</div>
+</section>
+<section class="area4">
+    <div class="area4--content">
+        <div class="bar"></div>
+        <h2>A volta do RBD:</h2>
+        <div class="area4--text">Em 2020, doze anos após o último show, o grupo se reuniu pela primeira vez e lançou o single "Siempre He Estado Aquí" para promover o concerto virtual Ser O Parecer: The Global Virtual Union. Em 2021, foi lançado o álbum ao vivo que leva o mesmo nome do concerto. Os integrantes Alfonso Herrera e Dulce María não participaram dos projetos por questões pessoais.[16] Em 2023, eles se reuniram para uma turnê comemorativa, a Soy Rebelde Tour. Desta vez, apenas Herrera não participou do projeto.</div>
+            <a href="" class="button">learn more</a>
+    </div>
+    <div class="area4--img"></div>
+</section>
+<section class="area5">
+    <footer>
+        Criado com amor pela Heloísa<br/>
+        
+    </footer>
+</section>
+</body>
+</html>
